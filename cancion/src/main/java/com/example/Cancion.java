@@ -13,7 +13,7 @@ public class Cancion {
     public Cancion(){
         this.titulo = "Desconocido";
         this.artista = "Desconocido";
-        this.duracion = 180;
+        this.duracion = 0;
         this.genero = "Desconocido";
         this.album = "Desconocido";
     }
